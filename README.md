@@ -10,4 +10,4 @@ Fitur:
 - Tombol edit profile
 
 ## Screenshot Aplikasi
-![Screenshot](Screenshot_Aplikasi.png)
+![Screenshot](Screenshot_Aplikasi)
